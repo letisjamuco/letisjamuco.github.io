@@ -1,4 +1,4 @@
-Letisia Muco
+Letisja Muco
 ============
 
 SAP SD Consultant & Web Developer
@@ -15,11 +15,11 @@ Professionally, I am a Junior SAP SD (Sales and Distribution) Consultant working
 Github
 ------
 
-*   [Software Development for (difficult) Algorithmic Problems](https://github.com/letisiamuco/SoftDevProject)
-*   [Operating Systems](https://github.com/letisiamuco/opsys-k22-2022-homework-lab)
-*   [Implementation of Database Management Systems](https://github.com/letisiamuco/YSBD_1)
-*   [Object-oriented Programming](https://github.com/letisiamuco/oop-k10-2021-homework)
-*   [Artificial Intelligence](https://github.com/letisiamuco/ai-ys02-2021-homework)
+*   [Software Development for (difficult) Algorithmic Problems](https://github.com/letisjamuco/SoftDevProject)
+*   [Operating Systems](https://github.com/letisjamuco/opsys-k22-2022-homework-lab)
+*   [Implementation of Database Management Systems](https://github.com/letisjamuco/YSBD_1)
+*   [Object-oriented Programming](https://github.com/letisjamuco/oop-k10-2021-homework)
+*   [Artificial Intelligence](https://github.com/letisjamuco/ai-ys02-2021-homework)
 
 Education
 ---------
@@ -31,4 +31,4 @@ Education
 Contact
 -------
 
-You can reach me at [mletisiac@gmail.com](mailto:mletisiac@gmail.com).
+You can reach me at [letisjamuco@gmail.com](mailto:letisjamuco@gmail.com).
