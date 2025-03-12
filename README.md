@@ -1,4 +1,4 @@
-Letisja Muco
+Letisja Muço
 ============
 
 SAP SD Consultant 
@@ -21,7 +21,7 @@ Education
 ---------
 
 *   National & Kapodistrian University of Athens  
-    Department of Informatics and Telecommunications, Computer Science  
+    Department of Informatics and Telecommunications, Bachelor's degree (240 ECTS), Computer Science  
     Oct 2019 - Jul 2024
 
 Contact
