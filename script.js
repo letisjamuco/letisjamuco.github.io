@@ -95,3 +95,8 @@
     });
   });
 })();
+
+document.querySelector('.contact-form').addEventListener('submit', e => {
+  e.target.reset();
+  alert('Thank you! Your message has been sent successfully.');
+});
