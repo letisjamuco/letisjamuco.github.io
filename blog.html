@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Blog - Interactive Systems (Μ110) Reading Assignments | Letisja Muco</title>
+  <meta name="description" content="Interactive Systems (Μ110) reading assignments and reflections"/>
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="assets/favicon/favicon.png">
+
+  <!-- Fonts & Icons -->
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"/>
+
+  <!-- Your styles -->
+  <link rel="stylesheet" href="styles.css"/>
+</head>
+<body>
+  <!-- Navigation -->
+  <nav id="nav">
+    <div class="container">
+      <div class="logo">Letisja Muco</div>
+      <button class="menu-toggle" data-toggle="menu" aria-label="Toggle Menu" aria-expanded="false">☰</button>
+      <ul id="nav-menu">
+        <li><a href="index.html#hero">Home</a></li>
+        <li><a href="index.html#about">About</a></li>
+        <li><a href="index.html#resume">Resume</a></li>
+        <li><a href="index.html#projects">Projects</a></li>
+        <li><a href="blog.html" class="active">Blog</a></li>
+        <li><a href="index.html#contact">Contact</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <!-- Blog Section -->
+  <section id="blog" class="visible blog-page">
+    <div class="container">
+      <div class="section-header">
+        <div class="label">Blog</div>
+        <h2>Interactive Systems - Reading Assignments</h2>
+        <p>Reflections and insights from Interactive Systems coursework</p>
+      </div>
+
+      <!-- Empty State - No posts yet -->
+      <div class="blog-empty-state">
+        <div class="empty-state-icon">
+          <i class="fas fa-book-open"></i>
+        </div>
+        <h3>No Posts Yet</h3>
+        <p>Reading assignments and reflections will be posted here as the Interactive Systems (M110) course progresses.</p>
+        <p class="empty-state-subtext">Check back soon for insights on Interactive Systems topics!</p>
+      </div>
+
+      <!-- Uncomment this section when you're ready to add posts --> 
+      <div class="blog-grid">
+        
+        <article class="blog-card">
+          <div class="blog-header">
+            <h3>Dummy Post Title here for testing proposes</h3>
+            <div class="blog-meta">
+              <span class="blog-date"><i class="far fa-calendar"></i> 15 October 2025</span>
+              <span class="blog-category">First Assignment</span>
+            </div>
+          </div>
+          <div class="blog-content">
+            <p>
+              My reflection or summary of the reading assignment goes here...
+            </p>
+          </div>
+          <a href="#" class="blog-link">Read More <i class="fas fa-arrow-right"></i></a>
+        </article>
+
+      </div>
+     
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <div class="footer-content">
+      <a href="#blog" class="back-to-top" aria-label="Back to top">
+        <i class="fas fa-arrow-up" aria-hidden="true"></i>
+      </a>
+      <p>© 2025 Letisja Muco. All rights reserved.</p>
+    </div>
+  </footer>
+
+  <script src="script.js" defer></script>
+
+</body>
+</html>
